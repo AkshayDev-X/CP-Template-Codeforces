@@ -19,7 +19,7 @@ using vpii = vector<pii>;
 using vpll = vector<pll>;
 //Short Forms 
 #define fastio() ios::sync_with_stdio(false); cin.tie(nullptr)
-#define pb emplace_back
+#define pb push_back
 #define all(x) (x).begin(), (x).end()
 #define sz(x) (int)(x).size()
 #define ff first
